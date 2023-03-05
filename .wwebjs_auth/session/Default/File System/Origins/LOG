@@ -1,0 +1,4 @@
+2022/06/19-14:17:01.002 33fc Log #3: 3 ops saved to Table #4 OK
+2022/06/19-14:17:02.021 33fc Archiving c:\Users\Nadim Al-Zoubi\Desktop\whatsapp-bot\.wwebjs_auth\session\Default\File System\Origins/000003.log: IO error: c:\Users\Nadim Al-Zoubi\Desktop\whatsapp-bot\.wwebjs_auth\session\Default\File System\Origins/000003.log: Could not rename file: File currently in use. (ChromeMethodBFE: 14::RenameFile::2)
+2022/06/19-14:17:02.022 33fc Table #4: 3 entries OK
+2022/06/19-14:17:03.034 33fc Archiving c:\Users\Nadim Al-Zoubi\Desktop\whatsapp-bot\.wwebjs_auth\session\Default\File System\Origins/MANIFEST-000001: IO error: c:\Users\Nadim Al-Zoubi\Desktop\whatsapp-bot\.wwebjs_auth\session\Default\File System\Origins/MANIFEST-000001: Could not rename file: File currently in use. (ChromeMethodBFE: 14::RenameFile::2)
