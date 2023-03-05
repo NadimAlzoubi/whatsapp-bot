@@ -1,1 +1,1 @@
-## instal node_modules
+## install node_modules
